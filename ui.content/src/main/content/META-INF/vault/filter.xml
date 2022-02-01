@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/myloans" mode="merge"/>
+    <filter root="/content/myloans" mode="merge"/>
+    <filter root="/content/dam/myloans/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/myloans" mode="merge"/>
+</workspaceFilter>
